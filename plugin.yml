@@ -1,0 +1,7 @@
+main: CraftingTable\ItemText
+version: dev
+api: 3.0.0
+load: POSTWORLD
+name: ItemText
+author: Verstack
+website: craftingtable.ru
